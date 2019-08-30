@@ -1,1 +1,1 @@
-# DepartmentWebsite
+# Department Website
